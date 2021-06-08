@@ -1,5 +1,5 @@
 {
-    "name"        : "panel/operation-log",
+    "name"        : "panel/operationLog",
     "type"        : "library",
     "require": {},
     "license"     : "MIT",
