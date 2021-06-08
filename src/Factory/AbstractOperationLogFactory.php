@@ -1,6 +1,8 @@
 <?php
 
-namespace Panel\OperationLog;
+namespace Panel\OperationLog\Factory;
+
+use Panel\OperationLog\Entities\OperationLogInterface;
 
 abstract class  AbstractOperationLogFactory
 {

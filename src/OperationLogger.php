@@ -3,6 +3,8 @@
 namespace Panel\OperationLog;
 
 use InvalidArgumentException;
+use Panel\OperationLog\Entities\OperationLogInterface;
+use Panel\OperationLog\Storage\OperationLogLocalFileStorage;
 
 class OperationLogger
 {

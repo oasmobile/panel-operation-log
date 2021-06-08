@@ -1,6 +1,8 @@
 <?php
 
-namespace Panel\OperationLog;
+namespace Panel\OperationLog\Storage;
+
+use Panel\OperationLog\Entities\OperationLogInterface;
 
 interface OperationLogStorageInterface
 {

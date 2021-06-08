@@ -1,6 +1,6 @@
 <?php
 
-namespace Panel\OperationLog;
+namespace Panel\OperationLog\Entities;
 
 use JsonSerializable;
 

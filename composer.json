@@ -17,5 +17,8 @@
         "psr-4": {
             "Panel\\OperationLog\\": "src/"
         }
+    },
+    "require-dev": {
+        "doctrine/orm": "2.7.5"
     }
 }
