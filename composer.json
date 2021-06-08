@@ -3,6 +3,7 @@
     "description": "Panel operation log",
     "type"       : "library",
     "license"    : "MIT",
+    "minimum-stability": "stable",
     "require"    : {
         "php": ">=7.0"
     },
