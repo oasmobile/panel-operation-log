@@ -1,5 +1,5 @@
 {
-    "name"             : "oasis/panel-operation-log",
+    "name"             : "panel/operation-log",
     "description"      : "Panel operation log",
     "type"             : "library",
     "license"          : "MIT",
@@ -15,7 +15,7 @@
     ],
     "autoload"         : {
         "psr-4": {
-            "Oasis\\Panel\\OperationLog\\": "src/"
+            "Panel\\OperationLog\\": "src/"
         }
     }
 }
