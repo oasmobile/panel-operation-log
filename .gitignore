@@ -1,18 +1,3 @@
 .DS_Store
 /vendor/
-/cache/
-/logs/
-/config/config.yml
-/config/core.yml
-/data/proxies/
-/data/protos/*
-/protobuf/GPBMetadata/*
-/protobuf/Gm/*
-# Editor directories and files
 .idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw*
