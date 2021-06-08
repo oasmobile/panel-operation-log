@@ -1,17 +1,18 @@
 {
-    "name"        : "panel/operation-log",
-    "description" : "Panel operation log",
-    "type"        : "library",
-    "require"     : {
-        "php"              : ">=7.0",
-    "license"     : "MIT",
-    "authors"     : [
+    "name"       : "panel/operation-log",
+    "description": "Panel operation log",
+    "type"       : "library",
+    "license"    : "MIT",
+    "require"    : {
+        "php": ">=7.0"
+    },
+    "authors"    : [
         {
             "name" : "Baihuzi",
             "email": "baihuzi8@gmail.com"
         }
     ],
-    "autoload"    : {
+    "autoload"   : {
         "psr-4": {
             "Panel\\OperationLog\\": "src/"
         }
