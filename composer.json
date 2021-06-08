@@ -1,0 +1,17 @@
+{
+    "name"        : "panel/operation-log",
+    "type"        : "library",
+    "require": {},
+    "license"     : "MIT",
+    "authors"     : [
+        {
+            "name" : "Baihuzi",
+            "email": "baihuzi8@gmail.com"
+        }
+    ],
+    "autoload"    : {
+        "psr-4": {
+            "Panel\\OperationLog\\": "src/"
+        }
+    }
+}
